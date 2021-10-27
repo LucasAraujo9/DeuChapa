@@ -1,0 +1,32 @@
+﻿@model Combo
+
+
+<div>
+
+    <div>
+        <h1>LANCHES JÁ CADASTRADOS</h1>
+        <div>
+            @foreach (var item in ViewBag.Lanche.Items)
+            {
+                <p value="@item.Id_Lanche"> @item.Nome </p>
+            }
+        </div>
+        <a asp-controller="Home" asp-action="CadastroLanche" class="btn btn-success">Cadastrar Bebida</a>
+    </div>
+
+    <br />
+
+    <div>
+        <h1>BEBIDAS JÁ CADASTRADOS</h1>
+        <div>
+            @foreach (var item in ViewBag.Bebida.Items)
+            {
+                <p value="@item.Id_Bebida"> @item.Nome </p>
+            }
+        </div>
+        <a asp-controller="Home" asp-action="CadastroBebida" class="btn btn-success">Cadastrar Bebida</a>
+    </div>
+
+    <br />
+
+</div>

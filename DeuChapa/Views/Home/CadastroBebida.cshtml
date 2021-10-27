@@ -1,0 +1,59 @@
+﻿@{
+    ViewData["Title"] = "Cadastre sua bebida";
+
+}
+
+@model Bebida
+
+<h1>@ViewData["Title"]</h1>
+
+<p>Está area é para você montar o seu lanche.</p>
+
+<form asp-action="_CadastroBebida" method="post">
+
+    <select class="form-control" asp-for="@Model.Tipo">
+        <option selected value="">--Selecione Bebida--</option>
+        <option value="Cerveja">Cerveja</option>
+        <option value="Refrigerante">Refrigerante</option>
+        <option value="Suco c/ Água">Suco c/ Água</option>
+        <option value="Suco c/ Leite">Suco c/ Leite</option>
+    </select>
+    <span asp-validation-for="@Model.Tipo"></span>
+
+    <br />
+
+    <div>
+        <select class="form-control">
+            <!-- falta atualizar a model e o banco pra poder salvar-->
+            <option selected value="">--Selecione o Tamanho--</option>
+            <option value="Lta 350ml">Lata 350ml</option>
+            <option value="Garrafa 600ml">Garrafa 600ml</option>
+            <option value="Garrafa 1L">Garrafa 1L</option>
+        </select>
+    </div>
+
+    <br />
+
+    <div class="col-auto">
+        <div class="input-group mb-2">
+            <div class="input-group-text">Nome do Lanche</div>
+            <input type="text" class="form-control" placeholder="Nome Lanche" asp-for="@Model.Nome">
+            <span asp-validation-for="@Model.Nome"></span>
+        </div>
+
+        <div class="input-group mb-2">
+            <div class="input-group-text">R$</div>
+            <input type="text" class="form-control" placeholder="Valor R$" asp-for="@Model.Valor">
+            <span asp-validation-for="@Model.Valor"></span>
+        </div>
+    </div>
+    <br />
+
+    <div class="form-group">
+        <button type="submit"
+                class="btn btn-success">
+            Salvar
+        </button>
+    </div>
+
+</form>

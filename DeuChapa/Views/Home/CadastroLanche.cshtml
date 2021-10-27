@@ -1,0 +1,98 @@
+﻿@{
+    ViewData["Title"] = "Monte seu lanche";
+
+}
+
+@model Lanche
+
+<h1>@ViewData["Title"]</h1>
+
+<p>Está area é para você montar o seu lanche.</p>
+
+<form asp-action="_CadastroLanche" method="post">
+
+    <select class="form-control" asp-for="@Model.Ingredientes.Pao">
+        <option selected value="">--Selecione o Pão--</option>
+        <option value="Tradicional">Tradicional</option>
+        <option value="Gergelim">Gergelim</option>
+        <option value="Australiano">Australiano</option>
+        <option value="Integral">Integral</option>
+    </select>
+
+
+    <br />
+
+    <select class="form-control" asp-for="@Model.Ingredientes.Queijo">
+        <option selected value="">--Selecione o Queijo--</option>
+        <option value="Mussarela">Mussarela</option>
+        <option value="Prato">Prato</option>
+        <option value="Cheddar">Cheddar</option>
+    </select>
+    <span asp-validation-for="@Model.Ingredientes.Queijo"></span>
+
+    <br />
+
+    <select class="form-control" asp-for="@Model.Ingredientes.Hamburguer">
+        <option selected value="">--Selecione o Hamburguer--</option>
+        <option value="Bovino">Bovino</option>
+        <option value="Suino">Suino</option>
+        <option value="Frango">Frango</option>
+        <option value="Vegano">Vegano</option>
+    </select>
+    <span asp-validation-for="@Model.Ingredientes.Hamburguer"></span>
+
+    <br />
+
+    <select class="form-control" asp-for="@Model.Ingredientes.Molho">
+        <option selected value="">--Selecione o Molho--</option>
+        <option value="Especial Casa">Especial Casa</option>
+        <option value="Heinz">Heinz</option>
+        <option value="Do Chefe">Do Chefe</option>
+    </select>
+    <span asp-validation-for="@Model.Ingredientes.Molho"></span>
+
+    <br />
+
+    <div asp-for>
+        <label>Vegetais</label> <br />
+
+        <div class="form-group form-check">
+            <label class="form-check-label">
+                <input class="form-check-input" asp-for="@Model.Ingredientes.Alface" /> @Html.DisplayNameFor(model => model.Ingredientes.Alface)
+            </label>
+        </div>
+
+        <div class="form-group form-check">
+            <label class="form-check-label">
+                <input class="form-check-input" asp-for="@Model.Ingredientes.Tomate" /> @Html.DisplayNameFor(model => model.Ingredientes.Tomate)
+            </label>
+        </div>
+
+    </div>
+
+    <br />
+
+    <div class="col-auto">
+        <div class="input-group mb-2">
+            <div class="input-group-text">Nome do Lanche</div>
+            <input type="text" class="form-control" placeholder="Nome Lanche" asp-for="@Model.Nome">
+            <span asp-validation-for="@Model.Nome"></span>
+        </div>
+
+        <div class="input-group mb-2">
+            <div class="input-group-text">R$</div>
+            <input type="text" class="form-control" placeholder="Valor R$" asp-for="@Model.Valor">
+            <span asp-validation-for="@Model.Valor"></span>
+        </div>
+    </div>
+
+    <br />
+
+    <div class="form-group">
+        <button type="submit"
+                class="btn btn-success">
+            Salvar
+        </button>
+    </div>
+
+</form>

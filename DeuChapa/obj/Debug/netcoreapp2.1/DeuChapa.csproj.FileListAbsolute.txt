@@ -1,0 +1,72 @@
+C:\Users\ESTUDO\Desktop\DeuChapa\DeuChapa\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\ESTUDO\Desktop\DeuChapa\DeuChapa\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\ESTUDO\Desktop\DeuChapa\DeuChapa\bin\Debug\netcoreapp2.1\DeuChapa.deps.json
+C:\Users\ESTUDO\Desktop\DeuChapa\DeuChapa\bin\Debug\netcoreapp2.1\DeuChapa.runtimeconfig.json
+C:\Users\ESTUDO\Desktop\DeuChapa\DeuChapa\bin\Debug\netcoreapp2.1\DeuChapa.runtimeconfig.dev.json
+C:\Users\ESTUDO\Desktop\DeuChapa\DeuChapa\bin\Debug\netcoreapp2.1\DeuChapa.dll
+C:\Users\ESTUDO\Desktop\DeuChapa\DeuChapa\bin\Debug\netcoreapp2.1\DeuChapa.pdb
+C:\Users\ESTUDO\Desktop\DeuChapa\DeuChapa\bin\Debug\netcoreapp2.1\DeuChapa.Views.dll
+C:\Users\ESTUDO\Desktop\DeuChapa\DeuChapa\bin\Debug\netcoreapp2.1\DeuChapa.Views.pdb
+C:\Users\ESTUDO\Desktop\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\DeuChapa.csprojAssemblyReference.cache
+C:\Users\ESTUDO\Desktop\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\DeuChapa.AssemblyInfoInputs.cache
+C:\Users\ESTUDO\Desktop\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\DeuChapa.AssemblyInfo.cs
+C:\Users\ESTUDO\Desktop\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\DeuChapa.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDO\Desktop\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\DeuChapa.RazorAssemblyInfo.cache
+C:\Users\ESTUDO\Desktop\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\DeuChapa.RazorAssemblyInfo.cs
+C:\Users\ESTUDO\Desktop\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\DeuChapa.TagHelpers.input.cache
+C:\Users\ESTUDO\Desktop\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\DeuChapa.TagHelpers.output.cache
+C:\Users\ESTUDO\Desktop\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\DeuChapa.RazorCoreGenerate.cache
+C:\Users\ESTUDO\Desktop\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\Razor\Views\Home\CadastroBebida.cshtml.g.cs
+C:\Users\ESTUDO\Desktop\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\Razor\Views\Home\CadastroCombo.cshtml.g.cs
+C:\Users\ESTUDO\Desktop\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\Razor\Views\Home\CadastroLanche.cshtml.g.cs
+C:\Users\ESTUDO\Desktop\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ESTUDO\Desktop\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ESTUDO\Desktop\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\ESTUDO\Desktop\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ESTUDO\Desktop\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ESTUDO\Desktop\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ESTUDO\Desktop\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ESTUDO\Desktop\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\DeuChapa.RazorTargetAssemblyInfo.cache
+C:\Users\ESTUDO\Desktop\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\DeuChapa.RazorTargetAssemblyInfo.cs
+C:\Users\ESTUDO\Desktop\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\DeuChapa.Views.pdb
+C:\Users\ESTUDO\Desktop\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\DeuChapa.dll
+C:\Users\ESTUDO\Desktop\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\DeuChapa.pdb
+C:\Users\ESTUDO\Desktop\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\DeuChapa.genruntimeconfig.cache
+C:\Users\ESTUDO\Desktop\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\DeuChapa.csproj.CopyComplete
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\bin\Debug\netcoreapp2.1\DeuChapa.deps.json
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\bin\Debug\netcoreapp2.1\DeuChapa.runtimeconfig.json
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\bin\Debug\netcoreapp2.1\DeuChapa.runtimeconfig.dev.json
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\bin\Debug\netcoreapp2.1\DeuChapa.dll
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\bin\Debug\netcoreapp2.1\DeuChapa.pdb
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\bin\Debug\netcoreapp2.1\DeuChapa.Views.dll
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\bin\Debug\netcoreapp2.1\DeuChapa.Views.pdb
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\DeuChapa.csprojAssemblyReference.cache
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\DeuChapa.AssemblyInfoInputs.cache
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\DeuChapa.AssemblyInfo.cs
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\DeuChapa.csproj.CoreCompileInputs.cache
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\DeuChapa.RazorAssemblyInfo.cache
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\DeuChapa.RazorAssemblyInfo.cs
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\DeuChapa.TagHelpers.input.cache
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\DeuChapa.TagHelpers.output.cache
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\DeuChapa.RazorCoreGenerate.cache
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\Razor\Views\Home\CadastroBebida.cshtml.g.cs
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\Razor\Views\Home\CadastroLanche.cshtml.g.cs
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\DeuChapa.RazorTargetAssemblyInfo.cache
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\DeuChapa.RazorTargetAssemblyInfo.cs
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\DeuChapa.Views.pdb
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\DeuChapa.dll
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\DeuChapa.pdb
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\DeuChapa.genruntimeconfig.cache
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\DeuChapa.csproj.CopyComplete
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\Razor\Views\Home\Resumo\ResumoLanche.cshtml.g.cs
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\Razor\Views\Home\Resumo\ResumoBebida.cshtml.g.cs
+D:\Area de Trabalho\Projetos GitHub\DeuChapa\DeuChapa\obj\Debug\netcoreapp2.1\Razor\Views\Home\Cadastrados.cshtml.g.cs
